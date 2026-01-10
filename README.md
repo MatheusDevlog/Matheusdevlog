@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Tenho 27 anos, moro no Pará – Brasil 🇧🇷 e sou apaixonado por tecnologia.
+Tenho 27 anos, moro no Pará – Brasil e sou apaixonado por tecnologia.
 Sou autodidata e gosto de aprender explorando, testando e errando até entender como as coisas realmente funcionam.
 
 Uso este GitHub como um espaço para registrar minha evolução, organizar meus estudos e transformar aprendizado em prática. Cada projeto aqui representa um passo a mais na minha jornada como desenvolvedor.
