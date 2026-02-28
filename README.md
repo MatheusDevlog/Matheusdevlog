@@ -1,14 +1,14 @@
 ## Olá, eu sou o Matheus! 👋
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end | Aspirante a Fullstack`**
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou Desenvolvedor JavaScript com foco em soluções Fullstack e graduando em Análise e Desenvolvimento de Sistemas (ADS).
+Sou graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo como **Desenvolvedor Front-end**, focado em construir interfaces modernas, intuitivas e de alta performance. 
 
-Utilizo este GitHub para documentar minha evolução técnica e aplicar meus conhecimentos em projetos reais e escaláveis. Sou apaixonado por resolver problemas através do código e busco constantemente aprimorar minhas habilidades na construção de aplicações web modernas, performáticas e eficientes.
+Atualmente, estou em uma jornada de especialização para me tornar um **Desenvolvedor Fullstack**, aprofundando meus conhecimentos em tecnologias de servidor e banco de dados para entregar soluções completas e escaláveis.
 
 ---
 
