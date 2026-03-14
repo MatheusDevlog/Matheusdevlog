@@ -1,6 +1,6 @@
 ## Olá, eu sou o Matheus! 👋
 
-**`Desenvolvedor Front-end | Aspirante a Fullstack`**
+**`Desenvolvedor Front-end`**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Sou graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo como **Desenvolvedor Front-end**, focado em construir interfaces modernas, intuitivas e de alta performance. 
 
-Atualmente, estou em uma jornada de especialização para me tornar um **Desenvolvedor Fullstack**, aprofundando meus conhecimentos em tecnologias de servidor e banco de dados para entregar soluções completas e escaláveis.
+Atualmente, estou em uma jornada de especialização para me tornar um **Desenvolvedor Front-end**, me especializando em transformar designs complexos em código limpo e fluido, garantindo que cada detalhe da interface funcione com perfeição em qualquer tela.
 
 ---
 
