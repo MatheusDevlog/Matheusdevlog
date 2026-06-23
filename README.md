@@ -21,7 +21,7 @@ Desenvolvedor back-end em formação (Análise e Desenvolvimento de Sistemas), f
 construir aplicações organizadas e próximas da realidade do mercado. Meu foco principal é
 **back-end com Python** — APIs REST, bancos relacionais, ORMs e containerização com Docker.
 
-- 🐍 Aprofundando em **Python** (FastAPI / Django) para desenvolvimento de APIs e Back-end
+- 🐍 Aprofundando em **Python** (Django / FastAPI) para desenvolvimento de APIs e Back-end
 - 🗄️ Trabalhando com **bancos relacionais** e modelagem de dados
 - 🐳 Praticando **Docker** e boas práticas de organização de projetos
 - 📍 Barcarena, Pará — Brasil
@@ -33,8 +33,8 @@ construir aplicações organizadas e próximas da realidade do mercado. Meu foco
 **Back-end**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Banco de dados**
