@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
 <p align="center">
-  <b>Back-end Developer</b> · Python · APIs REST · Docker · PostgreSQL
+  <b>Back-end Developer</b> · Python · APIs REST · Django · Docker · PostgreSQL
 </p>
 
 <p align="center">
@@ -49,14 +49,6 @@ construir aplicações organizadas e próximas da realidade do mercado. Meu foco
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Projetos em destaque
-
-- 🐍 **[automated-price-tracker](https://github.com/MatheusDevlog/automated-price-tracker)** — Monitor de preços em e-commerce com histórico de valores (Python · Requests · BeautifulSoup)
-- 🗂️ **[file-organizer-python](https://github.com/MatheusDevlog/file-organizer-python)** — Organizador de arquivos com interface gráfica e proteção contra sobrescrita (Python · Tkinter)
-- 🔌 **[user-management-api](https://github.com/MatheusDevlog/user-management-api)** — API de gerenciamento de usuários com Docker e PostgreSQL
 
 ---
 
